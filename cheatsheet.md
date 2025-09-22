@@ -11,5 +11,5 @@ Basic git commands
 ## git commit -m "changes you made"
 -commits the changes to your local repository with a message about the changes you made
 ## git push
--pushes the changes from the local repository to the remote repository
+
 
